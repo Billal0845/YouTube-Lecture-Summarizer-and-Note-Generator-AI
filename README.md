@@ -1,3 +1,5 @@
+
+
 # 🎓 YouTube Lecture Summarizer and Note Generator AI
 
 A **Streamlit-based AI tool** that allows you to convert YouTube lecture videos into summarized notes, generate smart study notes, and create personalized study plans. Users can also ask questions about the lecture summary in a chat-like interface.
@@ -33,6 +35,7 @@ A **Streamlit-based AI tool** that allows you to convert YouTube lecture videos 
 ```bash
 pip install -r requirements.txt
 
+Full Explanation Tutorial: https://www.youtube.com/watch?v=05TSx1BbdDU
 
 🔧 Setup
 
